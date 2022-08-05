@@ -1,6 +1,6 @@
 # msca-37011-deep-learning
 
-# Image Recognition Models for tagging MRI Images 
+# Image Recognition Models for tagging MRI Images                 
 
 Part of the Deep Learning and Image Recognition class at the University of Chicago's Master of Science in Analytics program 
 
