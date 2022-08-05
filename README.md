@@ -41,4 +41,4 @@ For each model we compared to datasets, one that was augmented and the original
 |---------|-----------------|
 |[Priyank Shroff](https://github.com/[shroffp05])| @shroffp05        |
 |[Nuka Gvilia](https://github.com/Nuka-Gvilia) |     @Nuka-Gvilia    |
-|[Anisha BharathSingh]()| @        |
+|[Anisha BharathSingh](https://github.com/AnishaB95)| @AnishaB95        |
